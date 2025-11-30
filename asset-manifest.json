@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/theguide/static/css/main.cd86b0bb.css",
+    "main.js": "/theguide/static/js/main.52292853.js",
+    "index.html": "/theguide/index.html",
+    "main.cd86b0bb.css.map": "/theguide/static/css/main.cd86b0bb.css.map",
+    "main.52292853.js.map": "/theguide/static/js/main.52292853.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd86b0bb.css",
+    "static/js/main.52292853.js"
+  ]
+}
