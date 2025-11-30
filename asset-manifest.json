@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/theguide/static/css/main.cd86b0bb.css",
-    "main.js": "/theguide/static/js/main.52292853.js",
+    "main.js": "/theguide/static/js/main.ed2459a4.js",
     "index.html": "/theguide/index.html",
     "main.cd86b0bb.css.map": "/theguide/static/css/main.cd86b0bb.css.map",
-    "main.52292853.js.map": "/theguide/static/js/main.52292853.js.map"
+    "main.ed2459a4.js.map": "/theguide/static/js/main.ed2459a4.js.map"
   },
   "entrypoints": [
     "static/css/main.cd86b0bb.css",
-    "static/js/main.52292853.js"
+    "static/js/main.ed2459a4.js"
   ]
 }
